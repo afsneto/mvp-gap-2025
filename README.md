@@ -126,13 +126,13 @@ O objetivo é desenvolver uma plataforma web para gerenciar e integrar esses est
 * Opção para geração de gráficos em barras para acompanhamento da utilização ao longo de um período de tempo de materiais (para determinado código ou por tipo de material empregado)
 
 ### TECHNICAL, BUSINESS AND UX REVIEW
-![image](/imagens/Tech_Bus_Ux.PNG)  
+![image](/imagens/Tech_Bus_Ux.png)  
 
 ### SEQUENCER
-![image](/imagens/Sequencer.PNG)  
+![image](/imagens/Sequencer.png)  
 
 ### MVP CANVAS
-![image](/imagens/MVP_Canvas.PNG)  
+![image](/imagens/MVP_Canvas.png)  
 
 ---
 
@@ -145,6 +145,7 @@ Backlog estruturado no **Jira**, com épicos, features, histórias e estimativas
 ## PRIMEIRA SPRINT
 
 A **Sprint 1** foi planejada para entregar um protótipo navegável e validar as funcionalidades essenciais do MVP.  
+![image](/imagens/Sprint.png)
 
 **Features contempladas na Sprint 1:**
 - **Listagem de materiais de todos os almoxarifados** → Permitir a visão global do estoque em todas as concessões.  
@@ -155,11 +156,23 @@ A **Sprint 1** foi planejada para entregar um protótipo navegável e validar as
 ---
 
 ## INTERFACE FIGMA
-Protótipo navegável desenvolvido no **Figma** (Material Design, 12 colunas, 1440px).  
+Protótipo navegável desenvolvido no **Figma** (Material Design, 12 colunas, 1440px).
+Todas as telas se encontram disponíveis no arquivo ![link](imagens/MVP-Figma-SaveInLine.pdf)  
+
 🔗 [Link para o Figma](https://www.figma.com/design/rJMBzMc92lL4clVlIaaJT2/MVP-GAP?node-id=0-1&p=f&t=iZgeNVenkHmS6kja-0)  
+
+### Tela de acesso
+![image](/imagens/MVP-Figma - Tela de Acesso.jpg)
+
+### Dashboard
+![image[(/imagens/MVP-Figma - Dashboard.jpg)
+
+### Detalhes do sinistro
+![image](/imagens/MVP-Figma - Detalhes do Sinistro.jpg)
 
 ---
 
 ## VIDEO DE APRESENTAÇÃO
 Demonstração do SAVEINLINE, cobrindo: visão, backlog, protótipo e resultados.  
 🔗 [Assistir no YouTube](https://youtu.be/Mmtqc2CWG5w)  
+
