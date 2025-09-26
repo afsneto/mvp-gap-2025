@@ -157,22 +157,24 @@ A **Sprint 1** foi planejada para entregar um protótipo navegável e validar as
 
 ## INTERFACE FIGMA
 Protótipo navegável desenvolvido no **Figma** (Material Design, 12 colunas, 1440px).
-Todas as telas se encontram disponíveis no arquivo ![link](imagens/MVP-Figma-SaveInLine.pdf)  
+Todas as telas se encontram disponíveis no arquivo:  
+🔗 [Link para o arquivo MVP-Figma-SaveInLine.pdf](imagens/MVP-Figma-SaveInLine.pdf)  
 
-🔗 [Link para o Figma](https://www.figma.com/design/rJMBzMc92lL4clVlIaaJT2/MVP-GAP?node-id=0-1&p=f&t=iZgeNVenkHmS6kja-0)  
+🔗 [Link para o site Figma](https://www.figma.com/design/rJMBzMc92lL4clVlIaaJT2/MVP-GAP?node-id=0-1&p=f&t=iZgeNVenkHmS6kja-0)  
 
 ### Tela de acesso
-![image](/imagens/MVP-Figma - Tela de Acesso.jpg)
+![image](/imagens/MVP-Figma-Tela_de_Acesso.jpg)
 
 ### Dashboard
-![image[(/imagens/MVP-Figma - Dashboard.jpg)
+![image](/imagens/MVP-Figma-Dashboard.jpg)
 
 ### Detalhes do sinistro
-![image](/imagens/MVP-Figma - Detalhes do Sinistro.jpg)
+![image](/imagens/MVP-Figma-Detalhes_do_Sinistro.jpg)
 
 ---
 
 ## VIDEO DE APRESENTAÇÃO
 Demonstração do SAVEINLINE, cobrindo: visão, backlog, protótipo e resultados.  
 🔗 [Assistir no YouTube](https://youtu.be/Mmtqc2CWG5w)  
+
 
