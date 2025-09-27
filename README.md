@@ -151,7 +151,8 @@ A **Sprint 1** foi planejada para entregar um protótipo navegável e validar as
 - **Listagem de materiais de todos os almoxarifados** → Permitir a visão global do estoque em todas as concessões.  
 - **Busca de materiais por Estado e Concessão** → Viabilizar consultas filtradas por região, otimizando a localização de recursos.  
 - **Cadastro de novos materiais** → Possibilitar a inclusão de itens recém-adquiridos, com dados técnicos padronizados.  
-- **Agrupar materiais por IT (Instrução de Trabalho)** → Relacionar automaticamente materiais necessários a intervenções específicas.  
+- **Agrupar materiais por IT (Instrução de Trabalho)** → Relacionar automaticamente materiais necessários a intervenções específicas.
+- **Notificar materiais esgotados** -> Avisa ao responsável quando um material estiver esgotado no estoque.
 
 ---
 
@@ -176,5 +177,6 @@ Todas as telas se encontram disponíveis no arquivo:
 ## VIDEO DE APRESENTAÇÃO
 Demonstração do SAVEINLINE, cobrindo: visão, backlog, protótipo e resultados.  
 🔗 [Assistir no YouTube](https://youtu.be/Mmtqc2CWG5w)  
+
 
 
