@@ -176,7 +176,8 @@ Todas as telas se encontram disponíveis no arquivo:
 
 ## VIDEO DE APRESENTAÇÃO
 Demonstração do SAVEINLINE, cobrindo: visão, backlog, protótipo e resultados.  
-🔗 [Assistir no YouTube](https://youtu.be/Mmtqc2CWG5w)  
+🔗 [Assistir no YouTube](https://www.youtube.com/watch?v=rhyq434TZtY)  
+
 
 
 
